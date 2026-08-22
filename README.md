@@ -83,12 +83,12 @@ Transformo planillas, procesos repetitivos y operaciones manuales en plataformas
 
 [![Estadísticas de Cayee](https://ghstats.dev/api/card?username=Cayee02&bg=0D1117&text=E6EDF3&title_color=FF6A00&icon_color=FF8A1F&border_color=30363D&border_radius=14&custom_title=Actividad%20de%20Cayee&alltime=true)](https://github.com/rowkav09/GitHub-profile-stats)
 
-[![Lenguajes de Cayee](https://ghstats.dev/api/langs?username=Cayee02&bg=0D1117&text=E6EDF3&title_color=FF6A00&border_color=30363D&border_radius=14&layout=compact&max_langs=8&custom_title=Lenguajes%20más%20utilizados)](https://github.com/rowkav09/GitHub-profile-stats)
-
 [![Racha](https://ghstats.dev/api/mini?username=Cayee02&metric=streak&label=Racha&color=FF6A00&style=for-the-badge)](https://github.com/Cayee02)
 [![Commits](https://ghstats.dev/api/mini?username=Cayee02&metric=commits&label=Commits&color=FF6A00&style=for-the-badge)](https://github.com/Cayee02)
 [![Repositorios](https://ghstats.dev/api/mini?username=Cayee02&metric=repos&label=Repos&color=FF6A00&style=for-the-badge)](https://github.com/Cayee02)
 [![Contribuciones](https://ghstats.dev/api/mini?username=Cayee02&metric=contributions&label=Contribuciones&color=FF6A00&style=for-the-badge)](https://github.com/Cayee02)
+
+[![Lenguajes de Cayee](https://ghstats.dev/api/langs?username=Cayee02&bg=0D1117&text=E6EDF3&title_color=FF6A00&border_color=30363D&border_radius=14&layout=compact&max_langs=8&custom_title=Lenguajes%20más%20utilizados)](https://github.com/rowkav09/GitHub-profile-stats)
 
 </div>
 
@@ -100,13 +100,6 @@ Transformo planillas, procesos repetitivos y operaciones manuales en plataformas
 
 </div>
 
-## 🏆 Logros
-
-<div align="center">
-
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Cayee02&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🐍 Mis contribuciones en movimiento
 
