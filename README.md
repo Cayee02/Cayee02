@@ -92,14 +92,6 @@ Transformo planillas, procesos repetitivos y operaciones manuales en plataformas
 
 </div>
 
-## 📈 Ritmo de desarrollo
-
-<div align="center">
-
-[![Gráfico de actividad de Cayee](https://github-readme-activity-graph.vercel.app/graph?username=Cayee02&bg_color=0D1117&color=E6EDF3&title_color=FF6A00&line=FF6A00&point=FF8A1F&area_color=FF6A00&area=true&hide_border=false&border_color=30363D&radius=14&custom_title=Actividad%20de%20los%20últimos%2031%20días)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 
 ## 🐍 Mis contribuciones en movimiento
 
